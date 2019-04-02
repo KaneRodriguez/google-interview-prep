@@ -1,8 +1,8 @@
-# this is a hash table with a linked list implementation
+# this is a hash map with a linked list implementation
 
-class HashTable:
+class HashMap:
 
-    def __init__(self, size=100): # TODO: what is a real-world realistic size to start with? How to implement shrinking and expanding of the table?
+    def __init__(self, size=100): # TODO: what is a real-world realistic size to start with? How to implement shrinking and expanding of the map?
       self.size = size
       self.map = [None] * size
     
@@ -25,7 +25,7 @@ class HashTable:
       # get the index in the array that we are mapping our key to
       hash = self._get_hash(key)
     
-      # is the table index open?
+      # is the map index open?
       if self.map[hash] is None:
         # create a new "LL" from the key and set it to this index
         self.map[hash] = list([[key, value]])
@@ -63,20 +63,20 @@ class HashTable:
       
       return False
       
-# init table small enough to guarantee collisions
-hashTable = HashTable(5)
+# init map small enough to guarantee collisions
+h = HashMap(5)
 
-hashTable.delete("Test Delete on Empty")
-hashTable.get("Test Get on Empty")
-hashTable.add("first", "Some string")
-hashTable.add("second", "Some string 2")
-hashTable.add("third", "Some string 3")
-hashTable.add("fourth", "Some string 4")
-hashTable.add("fifth", "Some string 5")
-hashTable.add("sixth", "Some string 6")
-print(hashTable.get("first"))
-print(hashTable.get("fifth"))
-print(hashTable.get("third"))
-hashTable.delete("first")
-print(hashTable.get("first"))
-print(hashTable.get("third"))
+h.delete("Test Delete on Empty")
+h.get("Test Get on Empty")
+h.add("first", "Some string")
+h.add("second", "Some string 2")
+h.add("third", "Some string 3")
+h.add("fourth", "Some string 4")
+h.add("fifth", "Some string 5")
+h.add("sixth", "Some string 6")
+print(h.get("first"))
+print(h.get("fifth"))
+print(h.get("third"))
+h.delete("first")
+print(h.get("first"))
+print(h.get("third"))
