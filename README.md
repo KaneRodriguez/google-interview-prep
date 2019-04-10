@@ -19,6 +19,9 @@ Go through the following before the interview.
   * [ ] Ch 17 - Hard
  
 * [ ] All Leet Code Top 100 Interview Problems
+ * [ ] All Easy
+ * [ ] All Medium
+ * [ ] All Hard
 * [ ] All Leet Code Google Interview Question Sets
 * [ ] All Leet Code Amazon Interview Question Sets
 * [ ] All Google Tech Dev Guide - Foundations of Programming sections
