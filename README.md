@@ -18,7 +18,7 @@ Go through the following before the interview.
   * [ ] Ch 16 - Moderate
   * [ ] Ch 17 - Hard
  
-* [ ] All Leet Code Top 100 Interview Problems
+* [ ] All Leet Code Top 100 Liked Problems
   * [ ] All Easy
   * [ ] All Medium
   * [ ] All Hard
