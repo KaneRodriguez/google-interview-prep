@@ -26,3 +26,4 @@ Go through the following before the interview.
 * [ ] All Leet Code Amazon Interview Question Sets
 * [ ] All Google Tech Dev Guide - Foundations of Programming sections
 * [ ] All Google Tech Dev Guide - Advanced Programming sections
+* [ ] All Relevant CLRS Chapters
