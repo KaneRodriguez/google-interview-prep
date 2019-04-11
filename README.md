@@ -50,26 +50,79 @@ Go through the following before the interview.
 ## Anki Cards
 
 * [ ] Anki Cards on:
+  * [ ] Advanced Algorithms
+    * [ ] Divide and Conquer
+    * [ ] Dynamic Programming
+    * [ ] Greedy Algorithms
+  * [ ] Math
+    * [ ] Elementary Probability Theory
+    * [ ] Combinatorics
+  * [ ] System Design
+    * [ ] Distributed Systems
+    * [ ] Concurrency
+    * [ ] Object Oriented Design
   * [ ] D.S. & A. Implementations in Python
     * [x] Stacks
     * [ ] Queues
-    * [ ] Binary Tree (BT) Node
-    * [ ] BT
-    * [ ] BT Traversal
-      * [ ] Pre-order
-        * [ ] DFS
-        * [ ] BFS
-      * [ ] In-order
-        * [ ] DFS
-        * [ ] BFS
-      * [ ] Post-order
-        * [ ] DFS
-        * [ ] BFS
-    * [x] Node-wise Comparison of 2 BT's
-
+      * [ ] Priority Queues
+    * [ ] Binary Tree (BT)
+      * [ ] BT Node
+      * [ ] BT Traversal
+        * [ ] Pre-order
+          * [ ] DFS
+          * [ ] BFS
+        * [ ] In-order
+          * [ ] DFS
+          * [ ] BFS
+        * [ ] Post-order
+          * [ ] DFS
+          * [ ] BFS
+      * [x] Node-wise Comparison of 2 BT's
+      * [ ] Red-Black Trees
+    * [ ] Heaps
+      * [ ] Max-heap
+      * [ ] Min-heap
+    * [ ] Tries
+    * [ ] Graphs
+        * [ ] Adjacency List Representation
+        * [ ] Matrix Representation
+        * [ ] Object and Pointers Representation
+        * [ ] Graph Search
+           * [ ] BFS
+           * [ ] DFS
+        * [ ] Graph Connectivity
+        * [ ] Cycle Detection
+        * [ ] Distance between Nodes
+     * [ ] Hashing
+        * [ ] Hash Functions
+        * [ ] Hash Maps
+           * [ ] Direct Addressing
+           * [ ] Open Addressing
+        * [ ] Hash Sets
+      * [ ] Resizable ArrayList
+      * [ ] Linked List
+         * [ ] Singly
+         * [ ] Doubly
+         * [ ] Cycle Detection
+      * [ ] Sorting
+         * [ ] Merge Sort
+         * [ ] Quick Sort
+         * [ ] Selection Sort
+         * [ ] Insertion Sort
+         * [ ] Bubble Sort
+         * [ ] Heap Sort
+         * [ ] Radix Sort
+         * [ ] Topological Sort
+      * [ ] Searching
+         * [ ] Binary Search
+         * [ ] A*
+         * [ ] Dijkstra
+     
 ---
 
 ## Extra / TODO
 
 * [ ] All Relevant CLRS Chapters
+* [ ] [Learneroo](https://www.learneroo.com/subjects/4) Math Course
+* [ ] Fill in Behavioral Chart
 
