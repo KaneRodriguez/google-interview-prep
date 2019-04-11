@@ -6,7 +6,7 @@ Go through the following before the interview.
 * [ ] Cracking the Coding Interview (CTCI) Questions
 * [ ] Anki Card Preparation
 * [ ] Daily Anki Card Review Until Job Offers
-* [ ] 
+* [ ] Google Tech Dev Guide
 
 Note: Clear checkboxes by doing a find & replace on this document and swapping "[x]" with "[ ]" (without quotes)
 
