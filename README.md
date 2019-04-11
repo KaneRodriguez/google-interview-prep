@@ -201,4 +201,5 @@ Note: Clear checkboxes by doing a find & replace on this document and swapping "
 * [ ] [Learneroo](https://www.learneroo.com/subjects/4) Math Course
 * [ ] Fill in Behavioral Chart
 * [ ] Installation instructions on Anki, leetcode signup, and links to books and courses
+* [ ] Source Control - Git Basics -> Advanced
 
