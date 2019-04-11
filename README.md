@@ -65,7 +65,7 @@ Go through the following before the interview.
       * [ ] Post-order
         * [ ] DFS
         * [ ] BFS
-    * [ ] Node-wise Comparison of 2 BT's
+    * [x] Node-wise Comparison of 2 BT's
 
 ---
 
