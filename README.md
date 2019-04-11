@@ -1,10 +1,18 @@
 # google-interview-prep
 
-Go through the following before the interview.
+Go through the following before the interview. 
+
+* [ ] LeetCode
+* [ ] Cracking the Coding Interview (CTCI) Questions
+* [ ] Anki Card Preparation
+* [ ] Daily Anki Card Review Until Job Offers
+* [ ] 
+
+Note: Clear checkboxes by doing a find & replace on this document and swapping "[x]" with "[ ]" (without quotes)
 
 ---
 
-## Cracking the Coding Interview Questions
+## CTCI Questions
 
 * [ ] All Relevant CTCI Questions
   * [ ] Ch 1 - Arrays and Strings
@@ -130,4 +138,5 @@ Go through the following before the interview.
 * [ ] All Relevant CLRS Chapters
 * [ ] [Learneroo](https://www.learneroo.com/subjects/4) Math Course
 * [ ] Fill in Behavioral Chart
+* [ ] Installation instructions on Anki, leetcode signup, and links to books and courses
 
