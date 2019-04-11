@@ -239,7 +239,11 @@ Note: Clear checkboxes by doing a find & replace on this document and swapping "
 
 * [ ] All Relevant CLRS Chapters
 * [ ] [Learneroo](https://www.learneroo.com/subjects/4) Math Course
-* [ ] Fill in Behavioral Chart
+* [ ] Behavioral Questions Prep
+    * [ ] Fill in Behavioral Chart
 * [ ] Installation instructions on Anki, leetcode signup, and links to books and courses
 * [ ] Source Control - Git Basics -> Advanced
+* [ ] Python Language Specifics
+* [ ] C++ Language Specifics
+* [ ] AI/ML Prep
 
