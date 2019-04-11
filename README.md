@@ -77,6 +77,15 @@ Go through the following before the interview.
         * [ ] Post-order
           * [ ] DFS
           * [ ] BFS
+        * [ ] Reverse Pre-order
+          * [ ] DFS
+          * [ ] BFS
+        * [ ] Reverse In-order
+          * [ ] DFS
+          * [ ] BFS
+        * [ ] Reverse Post-order
+          * [ ] DFS
+          * [ ] BFS
       * [x] Node-wise Comparison of 2 BT's
       * [x] Tree Depth
       * [ ] Tree Diameter
