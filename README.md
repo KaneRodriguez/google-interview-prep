@@ -69,67 +69,129 @@ Note: Clear checkboxes by doing a find & replace on this document and swapping "
     * [ ] Distributed Systems
     * [ ] Concurrency
     * [ ] Object Oriented Design
-  * [ ] D.S. & A. Implementations in Python
-    * [x] Stacks
-    * [ ] Queues
-      * [ ] Priority Queues
-    * [ ] Binary Tree (BT)
-      * [ ] BT Node
-      * [ ] BT Traversal
-        * [ ] Pre-order
-          * [ ] DFS
-          * [ ] BFS
-        * [ ] In-order
-          * [ ] DFS
-          * [ ] BFS
-        * [ ] Post-order
-          * [ ] DFS
-          * [ ] BFS
-        * [ ] Reverse In-order
-          * [ ] DFS
-          * [ ] BFS
-      * [x] Node-wise Comparison of 2 BT's
-      * [x] Tree Depth
-      * [ ] Tree Diameter
-      * [ ] Red-Black Trees
-    * [ ] Heaps
-      * [ ] Max-heap
-      * [ ] Min-heap
-    * [ ] Tries
-    * [ ] Graphs
-        * [ ] Adjacency List Representation
-        * [ ] Matrix Representation
-        * [ ] Object and Pointers Representation
-        * [ ] Graph Search
-           * [ ] BFS
-           * [ ] DFS
-        * [ ] Graph Connectivity
-        * [ ] Cycle Detection
-        * [ ] Distance between Nodes
-     * [ ] Hashing
-        * [ ] Hash Functions
-        * [ ] Hash Maps
-           * [ ] Direct Addressing
-           * [ ] Open Addressing
-        * [ ] Hash Sets
-      * [ ] Resizable ArrayList
-      * [ ] Linked List
-         * [ ] Singly
-         * [ ] Doubly
-         * [ ] Cycle Detection
-      * [ ] Sorting
-         * [ ] Merge Sort
-         * [ ] Quick Sort
-         * [ ] Selection Sort
-         * [ ] Insertion Sort
-         * [ ] Bubble Sort
-         * [ ] Heap Sort
-         * [ ] Radix Sort
-         * [ ] Topological Sort
-      * [ ] Searching
-         * [ ] Binary Search
-         * [ ] A*
-         * [ ] Dijkstra
+  * [ ] D.S. & A. Implementations
+    * [ ] C++
+      * [ ] Stacks
+      * [ ] Queues
+        * [ ] Priority Queues
+      * [ ] Binary Tree (BT)
+        * [ ] BT Node
+        * [ ] BT Traversal
+          * [ ] Pre-order
+            * [ ] DFS
+            * [ ] BFS
+          * [ ] In-order
+            * [ ] DFS
+            * [ ] BFS
+          * [ ] Post-order
+            * [ ] DFS
+            * [ ] BFS
+          * [ ] Reverse In-order
+            * [ ] DFS
+            * [ ] BFS
+        * [ ] Node-wise Comparison of 2 BT's
+        * [ ] Tree Depth
+        * [ ] Tree Diameter
+        * [ ] Red-Black Trees
+      * [ ] Heaps
+        * [ ] Max-heap
+        * [ ] Min-heap
+      * [ ] Tries
+      * [ ] Graphs
+          * [ ] Adjacency List Representation
+          * [ ] Matrix Representation
+          * [ ] Object and Pointers Representation
+          * [ ] Graph Search
+             * [ ] BFS
+             * [ ] DFS
+          * [ ] Graph Connectivity
+          * [ ] Cycle Detection
+          * [ ] Distance between Nodes
+       * [ ] Hashing
+          * [ ] Hash Functions
+          * [ ] Hash Maps
+             * [ ] Direct Addressing
+             * [ ] Open Addressing
+          * [ ] Hash Sets
+        * [ ] Resizable ArrayList
+        * [ ] Linked List
+           * [ ] Singly
+           * [ ] Doubly
+           * [ ] Cycle Detection
+        * [ ] Sorting
+           * [ ] Merge Sort
+           * [ ] Quick Sort
+           * [ ] Selection Sort
+           * [ ] Insertion Sort
+           * [ ] Bubble Sort
+           * [ ] Heap Sort
+           * [ ] Radix Sort
+           * [ ] Topological Sort
+        * [ ] Searching
+           * [ ] Binary Search
+           * [ ] A*
+           * [ ] Dijkstra
+    * [ ] Python
+      * [x] Stacks
+      * [ ] Queues
+        * [ ] Priority Queues
+      * [ ] Binary Tree (BT)
+        * [ ] BT Node
+        * [ ] BT Traversal
+          * [ ] Pre-order
+            * [ ] DFS
+            * [ ] BFS
+          * [ ] In-order
+            * [ ] DFS
+            * [ ] BFS
+          * [ ] Post-order
+            * [ ] DFS
+            * [ ] BFS
+          * [ ] Reverse In-order
+            * [ ] DFS
+            * [ ] BFS
+        * [x] Node-wise Comparison of 2 BT's
+        * [x] Tree Depth
+        * [ ] Tree Diameter
+        * [ ] Red-Black Trees
+      * [ ] Heaps
+        * [ ] Max-heap
+        * [ ] Min-heap
+      * [ ] Tries
+      * [ ] Graphs
+          * [ ] Adjacency List Representation
+          * [ ] Matrix Representation
+          * [ ] Object and Pointers Representation
+          * [ ] Graph Search
+             * [ ] BFS
+             * [ ] DFS
+          * [ ] Graph Connectivity
+          * [ ] Cycle Detection
+          * [ ] Distance between Nodes
+       * [ ] Hashing
+          * [ ] Hash Functions
+          * [ ] Hash Maps
+             * [ ] Direct Addressing
+             * [ ] Open Addressing
+          * [ ] Hash Sets
+        * [ ] Resizable ArrayList
+        * [ ] Linked List
+           * [ ] Singly
+           * [ ] Doubly
+           * [ ] Cycle Detection
+        * [ ] Sorting
+           * [ ] Merge Sort
+           * [ ] Quick Sort
+           * [ ] Selection Sort
+           * [ ] Insertion Sort
+           * [ ] Bubble Sort
+           * [ ] Heap Sort
+           * [ ] Radix Sort
+           * [ ] Topological Sort
+        * [ ] Searching
+           * [ ] Binary Search
+           * [ ] A*
+           * [ ] Dijkstra
      
 ---
 
