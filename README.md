@@ -2,6 +2,10 @@
 
 Go through the following before the interview.
 
+---
+
+## Cracking the Coding Interview Questions
+
 * [ ] All Relevant CTCI Questions
   * [ ] Ch 1 - Arrays and Strings
   * [ ] Ch 2 - Linked Lists
@@ -18,12 +22,54 @@ Go through the following before the interview.
   * [ ] Ch 16 - Moderate
   * [ ] Ch 17 - Hard
  
+ ---
+ 
+## Leet Code Questions
+ 
+### Top 100 Liked Problems
+ 
 * [ ] All Leet Code Top 100 Liked Problems
   * [ ] All Easy
   * [ ] All Medium
   * [ ] All Hard
+  
+### Interview Questions Sets
+
 * [ ] All Leet Code Google Interview Question Sets
 * [ ] All Leet Code Amazon Interview Question Sets
+
+---
+
+## Google Tech Dev Guide
+
 * [ ] All Google Tech Dev Guide - Foundations of Programming sections
 * [ ] All Google Tech Dev Guide - Advanced Programming sections
+
+---
+
+## Anki Cards
+
+* [ ] Anki Cards on:
+  * [ ] D.S. & A. Implementations in Python
+    * [x] Stacks
+    * [ ] Queues
+    * [ ] Binary Tree (BT) Node
+    * [ ] BT
+    * [ ] BT Traversal
+      * [ ] Pre-order
+        * [ ] DFS
+        * [ ] BFS
+      * [ ] In-order
+        * [ ] DFS
+        * [ ] BFS
+      * [ ] Post-order
+        * [ ] DFS
+        * [ ] BFS
+    * [ ] Node-wise Comparison of 2 BT's
+
+---
+
+## Extra / TODO
+
 * [ ] All Relevant CLRS Chapters
+
