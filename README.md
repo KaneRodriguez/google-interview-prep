@@ -3,6 +3,8 @@
 Go through the following before the interview. 
 
 * [ ] LeetCode
+   * [ ] Python
+   * [ ] C++
 * [ ] Cracking the Coding Interview (CTCI) Questions
 * [ ] Anki Card Preparation
 * [ ] Daily Anki Card Review Until Job Offers
@@ -38,13 +40,23 @@ Note: Clear checkboxes by doing a find & replace on this document and swapping "
  
 * [ ] All Leet Code Top 100 Liked Problems
   * [ ] All Easy
+    * [ ] Python
+    * [ ] C++
   * [ ] All Medium
+    * [ ] Python
+    * [ ] C++
   * [ ] All Hard
+    * [ ] Python
+    * [ ] C++
   
 ### Interview Questions Sets
 
 * [ ] All Leet Code Google Interview Question Sets
+  * [ ] Python
+  * [ ] C++
 * [ ] All Leet Code Amazon Interview Question Sets
+  * [ ] Python
+  * [ ] C++
 
 ---
 
