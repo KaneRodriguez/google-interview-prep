@@ -246,4 +246,5 @@ Note: Clear checkboxes by doing a find & replace on this document and swapping "
 * [ ] Python Language Specifics
 * [ ] C++ Language Specifics
 * [ ] AI/ML Prep
+* [ ] Agile Software Development
 
