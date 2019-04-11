@@ -78,6 +78,8 @@ Go through the following before the interview.
           * [ ] DFS
           * [ ] BFS
       * [x] Node-wise Comparison of 2 BT's
+      * [ ] Tree Depth
+      * [ ] Tree Diameter
       * [ ] Red-Black Trees
     * [ ] Heaps
       * [ ] Max-heap
