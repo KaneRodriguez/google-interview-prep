@@ -18,19 +18,47 @@ Note: Clear checkboxes by doing a find & replace on this document and swapping "
 
 * [ ] All Relevant CTCI Questions
   * [ ] Ch 1 - Arrays and Strings
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 2 - Linked Lists
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 3 - Stacks and Queues
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 4 - Trees and Graphs
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 5 - Bit Manipulation
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 6 - Math and Logic Puzzles
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 7 - Object-Oriented Design
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 8 - Recursion and Dynamic Programming
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 9 - System Design and Scalability
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 10 - Sorting and Searching
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 11 - Testing
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 14 - Databases
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 16 - Moderate
+    * [ ] Python
+    * [ ] C++
   * [ ] Ch 17 - Hard
+    * [ ] Python
+    * [ ] C++
  
  ---
  
