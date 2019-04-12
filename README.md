@@ -1,6 +1,8 @@
 # google-interview-prep
 
-Go through the following before the interview. 
+Either just go through this [guide](https://github.com/KaneRodriguez/tech-interview-handbook) instead.
+
+Or go through the following before the interview. 
 
 * [ ] LeetCode
    * [ ] Python
