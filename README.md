@@ -5,8 +5,6 @@ Either just go through this [guide](https://github.com/KaneRodriguez/tech-interv
 Or go through the following before the interview. 
 
 * [ ] LeetCode
-   * [ ] Python
-   * [ ] C++
 * [ ] Cracking the Coding Interview (CTCI) Questions
 * [ ] Anki Card Preparation
 * [ ] Daily Anki Card Review Until Job Offers
@@ -20,48 +18,20 @@ Note: Clear checkboxes by doing a find & replace on this document and swapping "
 
 * [ ] All Relevant CTCI Questions
   * [ ] Ch 1 - Arrays and Strings
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 2 - Linked Lists
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 3 - Stacks and Queues
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 4 - Trees and Graphs
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 5 - Bit Manipulation
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 6 - Math and Logic Puzzles
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 7 - Object-Oriented Design
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 8 - Recursion and Dynamic Programming
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 9 - System Design and Scalability
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 10 - Sorting and Searching
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 11 - Testing
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 14 - Databases
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 16 - Moderate
-    * [ ] Python
-    * [ ] C++
   * [ ] Ch 17 - Hard
-    * [ ] Python
-    * [ ] C++
- 
+
  ---
  
 ## Leet Code Questions
@@ -69,24 +39,14 @@ Note: Clear checkboxes by doing a find & replace on this document and swapping "
 ### Top 100 Liked Problems
  
 * [ ] All Leet Code Top 100 Liked Problems
-  * [ ] All Easy
-    * [ ] Python
-    * [ ] C++
+  * [x] All Easy
   * [ ] All Medium
-    * [ ] Python
-    * [ ] C++
   * [ ] All Hard
-    * [ ] Python
-    * [ ] C++
   
 ### Interview Questions Sets
 
 * [ ] All Leet Code Google Interview Question Sets
-  * [ ] Python
-  * [ ] C++
 * [ ] All Leet Code Amazon Interview Question Sets
-  * [ ] Python
-  * [ ] C++
 
 ---
 
